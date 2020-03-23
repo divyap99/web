@@ -79,7 +79,7 @@ section {
     height:480px;
 }
 .welcome{
-    width:57%;
+    width:59%;
     float:left;
     background-color:rgb(148, 243, 6);
     height:410px;
@@ -101,6 +101,7 @@ section {
     margin-left: 20px;
     margin-top: 20px;
     height:430px;
+    position:relative;
 }
 h2{
     text-align: center;
