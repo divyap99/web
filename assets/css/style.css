@@ -91,11 +91,12 @@ section {
 }
 
 .photos{
-    width:35%;
+    width:37%;
     float:right;
     background-color:rgb(148, 243, 6);
     text-align: center;
     padding-right: none;
+    padding-left: none;
     margin-right: 20px;
     margin-left: 20px;
     margin-top: 20px;
